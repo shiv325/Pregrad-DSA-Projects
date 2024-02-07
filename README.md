@@ -18,6 +18,7 @@ Today a lot of Accidents have been spotted due to many reasons. Most of these ar
 
 # Metadata
 Dataset Link : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/US_Accidents_March23.csv
+
 This "US_Accidents_March23.csv" Dataset contains the 7728394 records and 46 attributes
 Moreover, the details of the attributes are given below :
 1. ID : Specifies the Accident Identity Number
